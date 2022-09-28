@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>慕恩X&#39;Blog</title>
+  <icon>https://www.gravatar.com/avatar/021f0b3accbf78cc69db03fca12f32cd</icon>
+  <subtitle>所念皆所爱</subtitle>
+  <link href="http://blazar.top/atom.xml" rel="self"/>
+  
+  <link href="http://blazar.top/"/>
+  <updated>2022-09-27T05:09:32.269Z</updated>
+  <id>http://blazar.top/</id>
+  
+  <author>
+    <name>Moon</name>
+    <email>1711445006@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://blazar.top/posts/177574ba/"/>
+    <id>http://blazar.top/posts/177574ba/</id>
+    <published>2022-09-25T14:14:52.000Z</published>
+    <updated>2022-09-27T05:09:32.269Z</updated>
+    
+    
+    
+    
+    
+    <category term="aa" scheme="http://blazar.top/tags/aa/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blazar.top/posts/4a17b156/"/>
+    <id>http://blazar.top/posts/4a17b156/</id>
+    <published>2022-09-23T11:42:25.530Z</published>
+    <updated>2022-09-27T05:09:20.188Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://linkofmagic.github.io/">my Blog</a>! This is your very first post. Check <a href="https://linkofmagic.github.io/posts/4a17b156/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><div class="tip warning faa-horizontal animated"><p>warning</p></div><div class="tip ban faa-flash animated"><p>ban</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://linkofmagic.github.io/&quot;&gt;my Blog&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://linkofmagic.github.</summary>
+      
+    
+    
+    
+    
+    <category term="show me" scheme="http://blazar.top/tags/show-me/"/>
+    
+  </entry>
+  
+</feed>
