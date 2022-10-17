@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.blazar.top/manifest.json</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.blazar.top/baidu_verify_code-IvaRxSzy3X.html</loc>
-    
-    <lastmod>2022-09-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://www.blazar.top/posts/177574ba/</loc>
     
-    <lastmod>2022-09-27</lastmod>
+    <lastmod>2022-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.blazar.top/posts/c094d24b/</loc>
+    
+    <lastmod>2022-10-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,6 +21,24 @@
   
   <url>
     <loc>http://www.blazar.top/posts/4a17b156/</loc>
+    
+    <lastmod>2022-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.blazar.top/manifest.json</loc>
+    
+    <lastmod>2022-10-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.blazar.top/baidu_verify_code-IvaRxSzy3X.html</loc>
     
     <lastmod>2022-09-27</lastmod>
     
@@ -58,7 +67,7 @@
 
   <url>
     <loc>http://www.blazar.top/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +75,21 @@
   
   <url>
     <loc>http://www.blazar.top/tags/aa/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://www.blazar.top/tags/show-me/</loc>
-    <lastmod>2022-09-28</lastmod>
+    <lastmod>2022-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.blazar.top/tags/Vue/</loc>
+    <lastmod>2022-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
